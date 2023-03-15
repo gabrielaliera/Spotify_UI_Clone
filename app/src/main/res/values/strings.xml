@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpotifyClone2</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="log_in_to_continue">Log in to continue</string>
+    <string name="spotify_logo">Spotify Logo</string>
+</resources>
