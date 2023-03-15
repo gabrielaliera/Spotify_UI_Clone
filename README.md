@@ -23,7 +23,7 @@ If I had to describe this project in three (3) emojis, they would be: 🤓🧠�
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='' width='' alt='Video Demo' />
+<img src='https://github.com/gabrielaliera/Spotify_UI_Clone_Lab/blob/master/spotify_UI_walkthrough.gif' width='' alt='Video Demo' />
 
 GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a>
 
