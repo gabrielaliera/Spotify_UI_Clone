@@ -1,4 +1,4 @@
-# Spotify_UI_Clone_Lab
+# Spotify UI Clone Lab
 
 Submitted by: Gabriela Liera
 
@@ -6,8 +6,7 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-Spotify Clone is an android app that replicates the UI login of Spotify. The goal of this project is to create an app's UI using XML layout files and common components, use drawables to set a logo
- and set the colors using themes to represent the brand of an app.
+Spotify Clone is an android app that replicates the UI login of Spotify. The goal of this project is to create an app's UI using XML layout files and common components, use drawables to set a logo and set the colors using themes to represent the brand of an app.
 
 If I had to describe this project in three (3) emojis, they would be: 🤓🧠👩‍💻
 
@@ -26,7 +25,6 @@ Here's a video that demos all of the app's implemented features:
 <img src='https://github.com/gabrielaliera/Spotify_UI_Clone_Lab/blob/master/spotify_UI_walkthrough.gif' width='' alt='Video Demo' />
 
 GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a>
-
 
 ## Notes
 
