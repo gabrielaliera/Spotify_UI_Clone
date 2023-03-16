@@ -1,4 +1,4 @@
-# Spotify UI Clone Lab
+# Spotify UI Clone
 
 Submitted by: Gabriela Liera
 
